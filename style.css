@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+}
+#pic{
+    width: 300px;
+}
+body{
+    background:linear-gradient(rgb(205, 200, 158),rgb(152, 102, 23));  
+}
+.cookie{
+    list-style:none;
+    position: fixed;
+    top: 0px;
+    margin-top:0px;
+    width: 87%;
+    cursor:pointer;
+}
+.cookie2{
+    display:inline;
+    margin-left:10px;
+    background-color: navajowhite;
+    padding: 3px;
+    border-radius:3px;
+    border-style: double;
+    border-width:3px;
+    border-color: saddlebrown;
+}
+a{
+    text-decoration:none;
+    color:saddlebrown;
+}
+#yay{
+    font-family: 'Inspiration', cursive;
+    font-size:50px;
+}
